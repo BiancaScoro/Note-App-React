@@ -1,3 +1,8 @@
+![image](https://github.com/BiancaScoro/Note-App-React/assets/120531347/68ecc46c-1b74-48ed-9103-f9e94a1e3665)
+
+![image](https://github.com/BiancaScoro/Note-App-React/assets/120531347/67f8a846-d628-4abd-9215-0e75c20bda25)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
